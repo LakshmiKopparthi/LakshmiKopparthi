@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: I love prompting LLMs,Listening Music
 - 📫 How to reach me:
   <p> 
-  <a href="lakshmikopparthi123@gmail.com">  
+  <a href="mailto:lakshmikopparthi123@gmail.com">  
   <img src="Icons/7101527_gmail_email_mail_icon.svg" alt="Gmail" height=40 width=40 />
   </a>
     
