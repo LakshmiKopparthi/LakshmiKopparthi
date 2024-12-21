@@ -21,10 +21,7 @@ Here are some ideas to get you started:
   <img src="Icons/5296501_linkedin_network_linkedin logo_icon.svg" alt="Linkedin" height=40 width=40 />
   </a>
    <p> 
-  <a href="+91 6305739690">  
-  <img src="172517_phone_icon.svg" alt="Phone" height=40 width=40 />
-  </a> 
-    
+  
     <a href="https://www.instagram.com/lakshmiiiii_k/">  
   <img src="Icons/5296765_camera_instagram_instagram logo_icon.svg" alt="Instagram" height=40 width=40 />
   </a>
