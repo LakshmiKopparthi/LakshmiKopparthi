@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lakshmi-kopparthi-53a313234/">  
   <img src="Icons/5296501_linkedin_network_linkedin logo_icon.svg" alt="Linkedin" height=40 width=40 />
   </a>
-   <p> 
+   
   
     <a href="https://www.instagram.com/lakshmiiiii_k/">  
   <img src="Icons/5296765_camera_instagram_instagram logo_icon.svg" alt="Instagram" height=40 width=40 />
