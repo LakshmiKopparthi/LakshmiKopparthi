@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
    <p> 
   <a href="+91 6305739690">  
-  <img src="Icons/7101527_gmail_email_mail_icon.svg" alt="Phone" height=40 width=40 />
+  <img src="172517_phone_icon.svg" alt="Phone" height=40 width=40 />
   </a> 
     
     <a href="https://www.instagram.com/lakshmiiiii_k/">  
