@@ -20,12 +20,17 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lakshmi-kopparthi-53a313234/">  
   <img src="Icons/5296501_linkedin_network_linkedin logo_icon.svg" alt="Linkedin" height=40 width=40 />
   </a>
-   
-  
-    <a href="https://www.instagram.com/lakshmiiiii_k/">  
+  <a href="https://www.instagram.com/lakshmiiiii_k/">  
   <img src="Icons/5296765_camera_instagram_instagram logo_icon.svg" alt="Instagram" height=40 width=40 />
   </a>
   </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshmiKopparthi&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for LakshmiKopparthi" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LakshmiKopparthi&theme=jolly" width="700">
+   
+  
+    
  
 
 
