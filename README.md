@@ -5,11 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building and fine-tuning machine learning models
 - 🌱 I’m currently learning React,Natural Language processing,ML Frameworks
-- 💻 Skills
-  
-  Programming Languages:Python,Java,MySQL
-  
-  Tools and Frameworks:Jupyter Notebook,VS code,Machine Learning Libraries (Scikit-learn, Pandas, NumPy,BeautifulSoup)
+
 - ⚡ Hobbies: I love prompting LLMs,Listening Music
 - connect with me:
   <div> 
