@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, enthusiast
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building and fine-tuning machine learning models
-- 🌱 I’m currently learning React,Natural Language processing,ML Frameworks
+- 🌱 I’m currently learning Natural Language processing,ML Frameworks
 
 - ⚡ Hobbies: I love prompting LLMs,Listening Music
 - connect with me:
