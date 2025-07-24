@@ -3,8 +3,9 @@ Hi there, I'm K. Lakshmi! 👋
 Welcome to my GitHub profile! I'm a passionate learner and developer, enthusiastic about solving real-world problems with innovative solutions. Here, you'll find my projects, code snippets, and experiments with technology.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Building and fine-tuning machine learning models
-- 🌱 I’m currently learning Natural Language processing,ML Frameworks
+- 🔭 I’m currently working on data analytics
+- 🌱I am aspiring to be a product manager who builds innovative projects 
+
 
 - ⚡ Hobbies: I love prompting LLMs,Listening Music
 - connect with me:
