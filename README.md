@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer, enthusiast
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data analytics
-- 🌱I am aspiring to be a product manager who builds innovative projects 
+- 🌱I am aspiring to be a product manager
 
 
 - ⚡ Hobbies: I love prompting LLMs,Listening Music
